@@ -2,7 +2,7 @@
   "name": "landing-prueba",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/OldROOx/repo-landingprueba",
+  "homepage": "https://OldROOx.github.io/repo-landingprueba",
   "type": "module",
   "scripts": {
     "dev": "vite",
